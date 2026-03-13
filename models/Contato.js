@@ -10,4 +10,3 @@ const contatoSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Contato', contatoSchema);
-    
